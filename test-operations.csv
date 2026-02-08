@@ -1,0 +1,5 @@
+name,type,status,priority,assigned_to,due_date,description
+"Server Maintenance","Infrastructure","Pending","High","John Smith","2025-07-15","Monthly server maintenance and updates"
+"Database Backup","Backup","Completed","Medium","Jane Doe","2025-07-10","Weekly database backup procedure"
+"Security Audit","Security","In Progress","Critical","Bob Johnson","2025-07-20","Quarterly security assessment"
+"Software Update","Software","Pending","Low","Alice Brown","2025-07-25","Update system software packages"

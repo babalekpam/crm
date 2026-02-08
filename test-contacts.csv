@@ -1,0 +1,4 @@
+name,email,phone,company,job title,lead source,status
+Alice Johnson,alice.johnson@testmail.com,555-1111,Test Corp,Manager,Website,active
+Bob Wilson,bob.wilson@testmail.com,555-2222,Demo Inc,Developer,Referral,active
+Carol Brown,carol.brown@testmail.com,555-3333,Sample LLC,Designer,Social Media,active
